@@ -74,7 +74,7 @@
               "params": { "tokenPath": "witness.baseInputToken" }
             },
             {
-              "path": "witness.baseOutputs.[]",
+              "path": "witness.baseOutputs.[0]",
               "fields": [
                 {
                   "path": "endAmount",
